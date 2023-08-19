@@ -1,6 +1,6 @@
 # 👨‍💻 Projeto_Apeperia 
 
-## ✨ Sobre o Projeto
+## ✨ Sobre o Projeto;
 
 Projeto_Apeperia simula uma página institucional de venda aplicativos para pequenas e médias empresas, fiz este projeto enquanto estava estudando pela Alura Ensino Online.  
 O objetivo foi dominar os conceitos de responsividade com @media queries, aplicando cada tipo de estilo CSS para os Breakpoints corretos e ainda pude exercitar minha base em CSS e HTML semântico.  
