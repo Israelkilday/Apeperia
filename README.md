@@ -5,7 +5,7 @@
 Projeto_Apeperia simula uma página institucional de vendas de aplicativos para pequenas e médias empresas, fiz este projeto enquanto estava estudando pela Alura Ensino Online.  
 O objetivo foi dominar os conceitos de responsividade com @media queries, aplicando cada tipo de estilo CSS para os Breakpoints corretos e ainda pude exercitar minha base em CSS e HTML semântico.  
 
-## 🎨 Layout 💻 && 📱 Mobile  
+## 🎨 Layout 💻 Desktop && 📱 Mobile  
 
 
 https://github.com/Israelkilday/projeto_apeperia/assets/101229204/12efcc52-b7f1-4a3d-afb1-96eb561bdfcc
