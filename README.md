@@ -18,7 +18,7 @@ https://github.com/Israelkilday/projeto_apeperia/assets/101229204/12efcc52-b7f1-
 
 ## 🔗 Link do Projeto
 
-https://israelkilday.github.io/Apeperia/
+https://israelkilday.github.io/Apeperia/projeto-apeperia/
 
  🧠 Autor
 
